@@ -1,16 +1,12 @@
 # About 1Trade 
 
-1Trade is a decentralized trading platform that allows users to trade NFTs and other assets on the Zora blockchain. It also allows creators to mint and sell their coins on the platform using our agentic AI workflow powered by Portia AI SDK. 
+We’re building an AI-powered Web3 DApp that combines the strengths of Zora and Portia AI to create a dual experience: one for creators, and one for traders.
 
-## Zora Network
+On the creator side, we’ll use AI to scan what’s trending on X — specific hashtags, topics, or even individual profiles like Elon or Trump. Based on user inputs (like frequency, content style, and theme preferences), the app will automatically generate an image related to that trend, and mint it as a Zora Coin using their protocol on Base. So basically, creators can auto-generate and launch their own trend-driven coins without touching a line of code.
 
-The Zora Network is a decentralized platform for the creation, distribution, and trading of unique digital assets, known as NFTs (Non-Fungible Tokens). It is built on top of the Ethereum blockchain and provides a secure and transparent environment for the creation and trading of NFTs.
+On the trader side, we’ll have a Portia-powered AI agent that tracks market and social trends in real time, finds relevant Zora Coins, and evaluates their trading potential based on a user’s defined risk profile. The agent can then suggest trades or even execute them directly via Uniswap v3, depending on the user’s preferences.
 
-### Zora Coins
-
-Zora Coins are a type of NFT that represents a unique digital asset. They are created and distributed on the Zora Network and can be traded on the platform.
-
-
+The real power here is in combining cultural relevance with automated onchain execution — we’re turning trends into tokens and making trading decisions smarter through AI.
 
 # 1Trade Web Platform
 
