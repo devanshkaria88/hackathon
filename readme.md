@@ -8,6 +8,13 @@ On the trader side, we’ll have a Portia-powered AI agent that tracks market an
 
 The real power here is in combining cultural relevance with automated onchain execution — we’re turning trends into tokens and making trading decisions smarter through AI.
 
+## 🌐 Links
+
+- [Demo](https://vibe-zora-frontend-dkwa.vercel.app/)
+- [Frontend Repository](https://github.com/gabikreal1/VibeZoraFrontend)
+- [Trading Bot Repository](https://github.com/devanshkaria88/zora-portia-bot)
+- [Smart Contracts Repository](https://github.com/gabikreal1/ZoraCoinsAutoTraderContracts)
+
 ## 🚀 Overview
 
 1Trade combines cultural relevance with automated onchain execution — turning trends into tokens and making trading decisions smarter through AI. It consists of multiple components working together:
@@ -162,13 +169,6 @@ sequenceDiagram
    - Social trading capabilities
    - Creator dashboards
    - Performance analytics
-
-## 🌐 Links
-
-- [Demo](https://vibe-zora-frontend-dkwa.vercel.app/)
-- [Frontend Repository](https://github.com/gabikreal1/VibeZoraFrontend)
-- [Trading Bot Repository](https://github.com/devanshkaria88/zora-portia-bot)
-- [Smart Contracts Repository](https://github.com/gabikreal1/ZoraCoinsAutoTraderContracts)
 
 ---
 
