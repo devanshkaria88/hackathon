@@ -12,14 +12,14 @@ The real power here is in combining cultural relevance with automated onchain ex
 
 The 1Trade Web Platform is a web application that allows users to trade NFTs and other assets on the Zora blockchain. It dynamically fetches trending coins on zora platform and performs buy and sell transactions based on the market conditions, and its own strategy. Users can also determine how they want to influence the strategy by providing their input in plain english. It also analysis current twitter trends and after doing sentiment analysis on those trends, it can generate a new image that can be used to create a new coin on the platform.
 
-## Future Plans
-
-End to end implementation where 1Trade bot is integrated with 1Trade web platform along with AI workflow. This allows us to be in a unique position where we can create a new coin on the platform and also trade it.
-
 # Links
 
 - [Github](https://github.com/gabikreal1/VibeZoraFrontend)
 - [Demo](https://vibe-zora-frontend-dkwa.vercel.app/)
+
+## Future Plans
+
+End to end implementation where 1Trade bot is integrated with 1Trade web platform along with AI workflow. This allows us to be in a unique position where we can create a new coin on the platform and also trade it.
 
 
 # 1Trade Bot
