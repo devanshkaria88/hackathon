@@ -1,6 +1,12 @@
 # 1Trade - AI-powered Web3 Trading Platform
 
-1Trade is an AI-powered Web3 DApp that combines Zora and Portia AI to create a dual experience: one for creators, and one for traders. The platform enables automated creation and trading of Zora Coins based on social media trends and market conditions.
+We’re building an AI-powered Web3 DApp that combines the strengths of Zora and Portia AI to create a dual experience: one for creators, and one for traders.
+
+On the creator side, we’ll use AI to scan what’s trending on X — specific hashtags, topics, or even individual profiles like Elon or Trump. Based on user inputs (like frequency, content style, and theme preferences), the app will automatically generate an image related to that trend, and mint it as a Zora Coin using their protocol on Base. So basically, creators can auto-generate and launch their own trend-driven coins without touching a line of code.
+
+On the trader side, we’ll have a Portia-powered AI agent that tracks market and social trends in real time, finds relevant Zora Coins, and evaluates their trading potential based on a user’s defined risk profile. The agent can then suggest trades or even execute them directly via Uniswap v3, depending on the user’s preferences.
+
+The real power here is in combining cultural relevance with automated onchain execution — we’re turning trends into tokens and making trading decisions smarter through AI.
 
 ## 🚀 Overview
 
