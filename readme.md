@@ -4,7 +4,7 @@ We’re building an AI-powered Web3 DApp that combines the strengths of Zora and
 
 On the creator side, we’ll use AI to scan what’s trending on X — specific hashtags, topics, or even individual profiles like Elon or Trump. Based on user inputs (like frequency, content style, and theme preferences), the app will automatically generate an image related to that trend, and mint it as a Zora Coin using their protocol on Base. So basically, creators can auto-generate and launch their own trend-driven coins without touching a line of code.
 
-On the trader side, we’ll have a Portia-powered AI agent that tracks market and social trends in real time, finds relevant Zora Coins, and evaluates their trading potential based on a user’s defined risk profile. The agent can then suggest trades or even execute them directly via Uniswap v3, depending on the user’s preferences.
+On the trader side, we’ll have a Portia-powered AI agent that tracks market and social trends in real time, finds relevant Zora Coins, and evaluates their trading potential based on a user’s defined risk profile. The agent can then suggest trades or even execute them directly using Reactive Smart Contracts via Uniswap v3, depending on the user’s preferences.
 
 The real power here is in combining cultural relevance with automated onchain execution — we’re turning trends into tokens and making trading decisions smarter through AI.
 
@@ -13,7 +13,7 @@ The real power here is in combining cultural relevance with automated onchain ex
 - [Demo](https://vibe-zora-frontend-dkwa.vercel.app/)
 - [Frontend Repository](https://github.com/gabikreal1/VibeZoraFrontend)
 - [Trading Bot Repository](https://github.com/devanshkaria88/zora-portia-bot)
-- [Smart Contracts Repository](https://github.com/gabikreal1/ZoraCoinsAutoTraderContracts)
+- [Reactive Smart Contracts Repository](https://github.com/gabikreal1/ZoraCoinsAutoTraderContracts)
 
 ## 🚀 Overview
 
@@ -50,7 +50,7 @@ flowchart LR
     A[Frontend - Next.js\nVibeZoraFrontend] <--> B[Backend - Node.js\nzoraBackend]
     B <--> C[AI Workflow\nzora_hack]
     A <--> D[Trading Bot\nzora-portia-bot]
-    A <--> E[Smart Contracts\nZoraCoinsAutoTraderContracts]
+    A <--> E[Reactive Smart Contracts\nZoraCoinsAutoTraderContracts]
     D <--> E
     E <--> F[Zora Network\nBase Chain]
     C <--> G[Portia AI]
@@ -88,7 +88,7 @@ Python-based trading bot that integrates with Zora Network and Portia AI.
 - Automated trading signals with confidence scoring
 
 ### 4. ZoraCoinsAutoTraderContracts
-Smart contract system for executing trades on Uniswap V3.
+Reactive Smart contract system for executing trades on Uniswap V3.
 
 **Key Features:**
 - Multi-user support with balance tracking
